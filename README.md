@@ -1,17 +1,17 @@
-# 🧠 Circuits for Intelligence  
+# Circuits for Intelligence  
 **Based on MIT OpenCourseWare — RES.9-003: Brains, Minds, and Machines (Summer 2015)**  
 Instructors: Gabriel Kreiman, Leyla Isik, Bill Lotter, Joseph Olson  
 Course URL: [MIT OCW — Brains, Minds, and Machines](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)  
 
 ---
 
-## 📘 Overview  
+## Overview  
 This repository reproduces and extends two neuroscience-inspired computational projects from **MIT OpenCourseWare’s “Brains, Minds, and Machines” (Summer 2015)** program under the research area **“Circuits for Intelligence.”**  
 The goal is to bridge biological neural computation and artificial intelligence models through simulation, decoding, and analysis.  
 
 ---
 
-## 🔬 Project 2.1 — *What is there? Representations of Visual Information in Neuronal Responses and Computer Vision Models*  
+## Project 2.1 — *What is there? Representations of Visual Information in Neuronal Responses and Computer Vision Models*  
 
 ### Instructors  
 Gabriel Kreiman, Leyla Isik, Bill Lotter  
@@ -23,7 +23,7 @@ In this project, you will explore how **information can be decoded** from both *
 
 ### Subprojects  
 
-#### 🧩 2.1.1 — Decoding Object Representations  
+#### 2.1.1 — Decoding Object Representations  
 - Dataset: A set of single-object images `{p1, …, pN}`  
 - Data sources:  
   - Behavioral data  
@@ -33,13 +33,13 @@ In this project, you will explore how **information can be decoded** from both *
   - Use machine learning classifiers to decode and discriminate objects based on single-trial data.  
   - Compare performance between biological and artificial representations.  
 
-#### 🌀 2.1.2 — Tolerance to Transformations  
+#### 2.1.2 — Tolerance to Transformations  
 - Study **object recognition robustness** under transformations such as:  
   - Scale  
   - Position  
   - Viewpoint  
 
-#### 🧠 2.1.3 — Cross-Domain Comparison  
+#### 2.1.3 — Cross-Domain Comparison  
 - Compare results across:  
   - Behavioral experiments  
   - Neurophysiological data  
@@ -53,7 +53,7 @@ In this project, you will explore how **information can be decoded** from both *
 
 ---
 
-## ⚡ Project 2.2 — *The Role of STDP in Neural Networks*  
+## Project 2.2 — *The Role of STDP in Neural Networks*  
 
 ### Instructors  
 Gabriel Kreiman, Joseph Olson  
@@ -83,7 +83,7 @@ This project investigates, through simulation, how different biologically observ
 
 ---
 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 - **Python 3.10+**, **NumPy**, **PyTorch**, **Matplotlib**, **Brian2**  
 - **Machine Learning:** SVM, Logistic Regression, CNNs  
 - **Neural Simulation:** STDP protocol implementations, plasticity models  
@@ -91,21 +91,21 @@ This project investigates, through simulation, how different biologically observ
 
 ---
 
-## 📊 Expected Results  
+## Expected Results  
 - Quantitative comparison between biological and computational representations.  
 - Visualization of transformation-tolerant recognition performance.  
 - Emergence of structured connectivity patterns from simulated STDP rules.  
 
 ---
 
-## 🧠 Learning Outcomes  
+## Learning Outcomes  
 - Understand how **biological vision systems** inspire modern **deep learning architectures**.  
 - Develop simulations to observe **plasticity-driven learning** in artificial neural circuits.  
 - Apply **cross-domain analysis** linking physiology, behavior, and computation.  
 
 ---
 
-## 📚 Source & Attribution  
+## Source & Attribution  
 This work is adapted from:  
 
 > **MIT OpenCourseWare**  
@@ -121,13 +121,13 @@ For terms of use, visit: [MIT OCW Terms of Use](https://ocw.mit.edu/pages/privac
 
 ---
 
-## 👨‍💻 Author  
+## Author  
 **Your Name**  
 GitHub: [@yourusername](https://github.com/yourusername)  
 Date: 2025  
 
 ---
 
-## ⚖️ License  
+## License  
 This repository and all derivative works are shared under:  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
