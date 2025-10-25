@@ -1,4 +1,4 @@
-# Circuits for Intelligence  
+# MIT Open CourseWare Project 
 **Based on MIT OpenCourseWare — RES.9-003: Brains, Minds, and Machines (Summer 2015)**  
 Instructors: Gabriel Kreiman, Leyla Isik, Bill Lotter, Joseph Olson  
 Course URL: [MIT OCW — Brains, Minds, and Machines](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)  
@@ -10,7 +10,8 @@ This repository reproduces and extends two neuroscience-inspired computational p
 The goal is to bridge biological neural computation and artificial intelligence models through simulation, decoding, and analysis.  
 
 ---
-
+## Circuits for Intelligence  
+**Based on MIT OpenCourseWare — RES.9-003: Brains, Minds, and Machines (Summer 2015)**  
 ## Project 2.1 — *What is there? Representations of Visual Information in Neuronal Responses and Computer Vision Models*  
 
 ### Instructors  
