@@ -123,9 +123,9 @@ For terms of use, visit: [MIT OCW Terms of Use](https://ocw.mit.edu/pages/privac
 ---
 
 ## Author  
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-Date: 2025  
+**Naman Dixit**  
+GitHub: [naman-dixit00](https://github.com/naman-dixit00)  
+Date: 13-11-2025  
 
 ---
 
