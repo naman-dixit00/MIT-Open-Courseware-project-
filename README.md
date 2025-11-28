@@ -1,4 +1,4 @@
-# MIT Open CourseWare Project 
+# MIT Open CourseWare Project - Currently Working On It .
 **Based on MIT OpenCourseWare — RES.9-003: Brains, Minds, and Machines (Summer 2015)**  
 Instructors: Gabriel Kreiman, Leyla Isik, Bill Lotter, Joseph Olson  
 Course URL: [MIT OCW — Brains, Minds, and Machines](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)  
